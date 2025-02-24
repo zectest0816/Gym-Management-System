@@ -1,21 +1,3 @@
-# *********************************************************
-# Program: TL09_G08.py
-# Course: PSP0101 PROBLEM SOLVING AND PROGRAM DESIGN
-# Tutorial Section: TL09 Group: G08
-# Trimester: 2215
-# Year: 2022/23 Trimester 1
-# Member_1: 1211109536 | TAN ZEC VONE
-# Member_2: 1211109413 | CHIOK KAH YANG
-# Member_3: 1211110389 | ONG YI ZHI
-# Member_4: 1211111490 | FARISYA NAZWA BINTI MOHD NAZRIHADI
-# *********************************************************
-# Task Distribution
-# Member_1: login & signup, booking + edit booking feature, payment + edit prices feature, flowcharts
-# Member_2: Coach selection feature, edit promocode feature, flowcharts
-# Member_3: Training plan feature, progress report feature, flowcharts
-# Member_4: Member details feature, gym review feature, flowcharts
-# *********************************************************
-
 import random
 import string #so that we can use string.ascii_letters later to generate special code
 import sys #so that we can use sys.exit() to exit the current python script later
